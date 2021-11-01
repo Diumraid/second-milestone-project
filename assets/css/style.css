@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Anton', sans-serif;
+    background: cadetblue;
+}
+
+.nav-border {
+    background: cornsilk;
+    border: solid;
+    border-color: darkblue;
+    size: relative;
+}
+
+nav {
+    text-align: center;
+  }
+
+nav ul {
+    display: inline-block;
+  }
